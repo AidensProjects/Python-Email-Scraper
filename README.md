@@ -1,1 +1,1 @@
-# Python-Email-Scraper
+# Python Email Scraper Using imaplib
